@@ -1,2 +1,2 @@
-# wallpapers
-Collection of wallpapers i use
+**A Wallpaper Bank**
+
