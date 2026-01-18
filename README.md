@@ -1,3 +1,3 @@
 # **A Wallpaper Bank**
 
-![](wallpapers/001.jpg)
+![](Wallpapers/001.jpg)
