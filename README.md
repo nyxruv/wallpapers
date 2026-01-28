@@ -24,3 +24,8 @@
 ![](Wallpapers/demon_girl.png)
 ![](Wallpapers/penguinppuccin.png)
 ![](Wallpapers/015.png)
+![](Wallpapers/redrest.png)
+![](Wallpapers/elf-with-sword.png)
+![](Wallpapers/chinese-skull.png)
+![](Wallpapers/delorean.png)
+![](Wallpapers/samurai.png)
