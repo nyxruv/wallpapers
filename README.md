@@ -83,8 +83,13 @@
   </tr>
   <tr>
     <td><img src="Wallpapers/venom.png" width="400"/></td>
-    <td><img src="Wallpapers/.png" width="400"/></td>
-    <td><img src="Wallpapers/.png" width="400"/></td>
+    <td><img src="Wallpapers/bubbles.png" width="400"/></td>
+    <td><img src="Wallpapers/mrpole.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Wallpapers/kaf.png" width="400"/></td>
+    <td><img src="Wallpapers/lady_.png" width="400"/></td>
+    <td><img src="Wallpapers/uni-eyes.png" width="400"/></td>
   </tr>
 </table>
 
