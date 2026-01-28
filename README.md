@@ -126,5 +126,10 @@
     <td><img src="Wallpapers/vapor-wave.png" width="400"/></td>
     <td><img src="Wallpapers/smok.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/gojo.png" width="400"/></td>
+    <td><img src="Wallpapers/kurou.png" width="400"/></td>
+    <td><img src="Wallpapers/girl-with-cat.png" width="400"/></td>
+  </tr>
 </table>
 
