@@ -56,5 +56,10 @@
     <td><img src="Wallpapers/girl-eye.png" width="400"/></td>
     <td><img src="Wallpapers/columbina.png" width="400"/></td>
   </tr>
+  <tr>
+    <td><img src="Wallpapers/gruvsmoke.png" width="400"/></td>
+    <td><img src="Wallpapers/green.png" width="400"/></td>
+    <td><img src="Wallpapers/hee.png" width="400"/></td>
+  </tr>
 </table>
 
